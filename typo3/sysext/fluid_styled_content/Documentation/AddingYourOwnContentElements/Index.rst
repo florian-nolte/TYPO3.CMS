@@ -138,7 +138,7 @@ found in sys_templates for static TS:
 setup.txt
 ---------
 
-As defined in `Configuration/TCA/Overrides/tt_content.php`, this file is in the directory
+As defined in `Configuration/TCA/Overrides/sys_template.php`, this file is in the directory
 `Configuration/TypoScript` of our own extension.
 
 To ensure your custom content element templates can be found you need to extend the global
